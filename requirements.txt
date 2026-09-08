@@ -1,0 +1,4 @@
+open anaconda prompt
+put BIAPPP file in C:\Users\OMEN this folder
+then run command :
+(base) C:\Users\OMEN>streamlit run BIAPPP.py
